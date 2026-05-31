@@ -1,11 +1,9 @@
 I have developed an Online Examination System Backend Application using Java and Spring Boot.
 
 The system enables teachers to create and manage question banks, generate exams, and monitor student performance. Students can view available exams, start exams, submit answers, and receive automatically calculated results. Security is implemented using JWT-based authentication and role-based authorization.
-
 The project follows a layered architecture and incorporates DTOs, entity mapping, validation, and RESTful API design principles to ensure scalability and maintainability.
 
 🔹 Key Features:
-
 User Registration & Authentication
 JWT Authentication & Authorization
 Role-Based Access Control (Teacher / Student)
