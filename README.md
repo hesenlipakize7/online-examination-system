@@ -4,32 +4,32 @@ The system enables teachers to create and manage question banks, generate exams,
 The project follows a layered architecture and incorporates DTOs, entity mapping, validation, and RESTful API design principles to ensure scalability and maintainability.
 
 🔹 Key Features:
-User Registration & Authentication
-JWT Authentication & Authorization
-Role-Based Access Control (Teacher / Student)
-Question Bank Management
-Exam Creation & Management
-Exam Activation & Availability Control
-Student Exam Participation
-Answer Submission
-Automatic Score Calculation
-Exam Result Tracking
-RESTful API Architecture
+User Registration & Authentication,
+JWT Authentication & Authorization,
+Role-Based Access Control (Teacher / Student),
+Question Bank Management,
+Exam Creation & Management,
+Exam Activation & Availability Control,
+Student Exam Participation,
+Answer Submission,
+Automatic Score Calculation,
+Exam Result Tracking,
+RESTful API Architecture,
 
 🔹 Technologies Used:
 
-Java
-Spring Boot
-Spring Security
-JWT Authentication
-PostgreSQL
-JPA / Hibernate
-Lombok
-Validation
-REST API
-DTO Architecture
-Role-Based Authorization
-Maven
+Java,
+Spring Boot,
+Spring Security,
+JWT Authentication,
+PostgreSQL,
+JPA / Hibernate,
+Lombok,
+Validation,
+REST API,
+DTO Architecture,
+Role-Based Authorization,
+Maven,
 
 Java və Spring Boot istifadə edərək Online Examination System Backend hazırlamışam.
 
@@ -39,29 +39,29 @@ Layihədə təmiz arxitektura prinsipləri, DTO strukturu, entity mapping, valid
 
 🔹 Əsas funksionallıqlar:
 
-İstifadəçi qeydiyyatı və giriş
-JWT Authentication & Authorization
-Müəllim və Tələbə rolları
-Sual bankının idarə olunması
-İmtahan yaratma və idarəetmə
-İmtahanın aktiv/deaktiv edilməsi
-Tələbənin imtahanda iştirakı
-Cavabların göndərilməsi
-Avtomatik bal hesablanması
-Nəticələrin izlənməsi
-REST API arxitekturası
+İstifadəçi qeydiyyatı və giriş,
+JWT Authentication & Authorization,
+Müəllim və Tələbə rolları,
+Sual bankının idarə olunması,
+İmtahan yaratma və idarəetmə,
+İmtahanın aktiv/deaktiv edilməsi,
+Tələbənin imtahanda iştirakı,
+Cavabların göndərilməsi,
+Avtomatik bal hesablanması,
+Nəticələrin izlənməsi,
+REST API arxitekturası,
 
 🔹 İstifadə olunan texnologiyalar:
 
-Java
-Spring Boot
-Spring Security
-JWT Authentication
-PostgreSQL
-JPA / Hibernate
-Lombok
-Validation
-REST API
-DTO Arxitekturası
-Role-Based Authorization
+Java,
+Spring Boot,
+Spring Security,
+JWT Authentication,
+PostgreSQL,
+JPA / Hibernate,
+Lombok,
+Validation,
+REST API,
+DTO Arxitekturası,
+Role-Based Authorization,
 Maven
